@@ -1,0 +1,10 @@
+{
+  "name": "iotdbwriter",
+  "parameter": {
+    "host": "",
+    "port":6667,
+    "username": "",
+    "password": "",
+    "storageGroup": ""
+  }
+}
