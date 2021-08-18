@@ -1,6 +1,0 @@
-{
-  "name": "iotdbwriter",
-  "class":"com.alibaba.datax.plugin.writer.iotdbwriter.IotdbWriter",
-  "description": "",
-  "develop": "pk"
-}

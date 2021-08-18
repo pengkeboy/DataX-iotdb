@@ -44,14 +44,7 @@
     <modules>
         <module>common</module>
 
-     
-
-
         <!-- writer -->
-
-
-        <module>elasticsearchwriter</module>
-
      
         <module>iotdbwriter</module>
     </modules>

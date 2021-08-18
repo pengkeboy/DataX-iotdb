@@ -19,26 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c2e1f39-1872-480b-879f-91882b4a97f6" name="Default Changelist" comment="">
+    <list default="true" id="6c2e1f39-1872-480b-879f-91882b4a97f6" name="Default Changelist" comment="add 说明">
       <change afterPath="$PROJECT_DIR$/../../DataX-master-simple/DataX-master/DataX-master/iotdbwriter/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DataX-master-simple/DataX-master/DataX-master/iotdbwriter/src/main/assembly/package.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DataX-master-simple/DataX-master/DataX-master/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/IotdbWriter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DataX-master-simple/DataX-master/DataX-master/iotdbwriter/src/main/resources/plugin.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DataX-master-simple/DataX-master/DataX-master/iotdbwriter/src/main/resources/plugin_job_template.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iotdbwriter/src/main/doc/iotdbwriter.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../data-exchange/data-exchange-service/data-exchange-integration/src/main/java/com/cnpo/integration/common/DbChecker/DataMediaSource.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../data-exchange/data-exchange-service/data-exchange-integration/src/main/java/com/cnpo/integration/common/DbChecker/DataMediaType.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../data-exchange/data-exchange-service/data-exchange-integration/src/main/java/com/cnpo/integration/common/DbChecker/DataSourceChecker.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../data-exchange/data-exchange-service/data-exchange-integration/src/main/java/com/cnpo/integration/common/DbChecker/DataSourceCreator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../data-exchange/data-exchange-service/data-exchange-integration/src/main/java/com/cnpo/integration/common/DbChecker/DataSourceHanlder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../data-exchange/data-exchange-service/data-exchange-integration/src/main/java/com/cnpo/integration/common/DbChecker/DbMediaSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/IotdbWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/IotdbWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/IotdbWriterErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/IotdbWriterErrorCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/Key.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iotdbwriter/src/main/resources/plugin_job_template.json" beforeDir="false" afterPath="$PROJECT_DIR$/iotdbwriter/src/main/resources/plugin_job_template.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,8 +109,16 @@
       <workItem from="1628755237528" duration="2821000" />
       <workItem from="1628834947257" duration="3455000" />
       <workItem from="1629033430742" duration="596000" />
-      <workItem from="1629191184169" duration="9048000" />
+      <workItem from="1629191184169" duration="9518000" />
     </task>
+    <task id="LOCAL-00001" summary="add 说明">
+      <created>1629257129306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629257129306</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +136,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add 说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 说明" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="121" y="51" width="1038" height="574" key="DiffContextDialog" timestamp="1629257157897">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="51" width="1038" height="574" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1629257157897" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1628477531401">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -164,6 +173,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="358" y="42" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1628755834425" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1629257161098">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1629257161098" />
     <state x="371" y="89" key="extract.method.dialog" timestamp="1628511697194">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
