@@ -44,18 +44,15 @@
     <modules>
         <module>common</module>
 
-        <!-- reader -->
-        <module>rdbmsreader</module>
+     
 
 
         <!-- writer -->
 
-        <module>rdbmswriter</module>
 
         <module>elasticsearchwriter</module>
 
-        <!-- common support module -->
-        <module>plugin-rdbms-util</module>
+     
         <module>iotdbwriter</module>
     </modules>
 

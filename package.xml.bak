@@ -10,21 +10,8 @@
     <includeBaseDirectory>false</includeBaseDirectory>
     <fileSets>
         <!-- reader -->
-        <fileSet>
-            <directory>rdbmsreader/target/datax/</directory>
-            <includes>
-                <include>**/*.*</include>
-            </includes>
-            <outputDirectory>datax</outputDirectory>
-        </fileSet>
-        <!-- writer -->
-        <fileSet>
-            <directory>rdbmswriter/target/datax/</directory>
-            <includes>
-                <include>**/*.*</include>
-            </includes>
-            <outputDirectory>datax</outputDirectory>
-        </fileSet>
+     
+       
         <fileSet>
             <directory>elasticsearchwriter/target/datax/</directory>
             <includes>
