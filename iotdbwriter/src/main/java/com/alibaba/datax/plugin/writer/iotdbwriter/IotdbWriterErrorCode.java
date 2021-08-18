@@ -1,7 +1,9 @@
 package com.alibaba.datax.plugin.writer.iotdbwriter;
 
 import com.alibaba.datax.common.spi.ErrorCode;
-
+/**
+ * Created by pk on 21/8/17.
+ */
 public enum IotdbWriterErrorCode  implements ErrorCode {
     BAD_CONFIG_VALUE("IotdbWriter-00", "您配置的值不合法."),
     BAD_STORAGE_SET("IotdbWriter-01", "存储组设置出错."),

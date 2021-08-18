@@ -1,7 +1,9 @@
 package com.alibaba.datax.plugin.writer.iotdbwriter;
 
 import com.alibaba.datax.common.util.Configuration;
-
+/**
+ * Created by pk on 21/8/17.
+ */
 public class Key {
     public static String getHost(Configuration conf) {
         return conf.getNecessaryValue(Constant.HOST, IotdbWriterErrorCode.BAD_CONFIG_VALUE);

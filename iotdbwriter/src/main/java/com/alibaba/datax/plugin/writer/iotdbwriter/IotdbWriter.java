@@ -16,6 +16,11 @@ import org.slf4j.LoggerFactory;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by pk on 21/8/17.
+ *此写法采用 Java 原生接口方法
+ * 可以参考如下:https://iotdb.apache.org/zh/UserGuide/Master/API/Programming-Java-Native-API.html
+ */
 public class IotdbWriter extends Writer {
 
 
@@ -107,6 +112,8 @@ public class IotdbWriter extends Writer {
             Record record = null;
             long total = 0;
             while ((record = recordReceiver.getFromReader()) != null) {
+                //deviceid,time,measurements,values 严格有序，类型指定
+                //todo list:类型转换，api兼容传入时间序列值类型
                 String deviceId = record.getColumn(0).asString();
                 deviceIds.add(deviceId);
                 long time = record.getColumn(1).asLong();

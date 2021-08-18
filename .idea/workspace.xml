@@ -25,20 +25,20 @@
       <change afterPath="$PROJECT_DIR$/../../DataX-master-simple/DataX-master/DataX-master/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/IotdbWriter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DataX-master-simple/DataX-master/DataX-master/iotdbwriter/src/main/resources/plugin.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DataX-master-simple/DataX-master/DataX-master/iotdbwriter/src/main/resources/plugin_job_template.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iotdbwriter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iotdbwriter/src/main/assembly/package.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/IotdbWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/IotdbWriterErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/Key.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iotdbwriter/src/main/resources/plugin.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iotdbwriter/src/main/resources/plugin_job_template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iotdbwriter/src/main/doc/iotdbwriter.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../data-exchange/data-exchange-service/data-exchange-integration/src/main/java/com/cnpo/integration/common/DbChecker/DataMediaSource.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../data-exchange/data-exchange-service/data-exchange-integration/src/main/java/com/cnpo/integration/common/DbChecker/DataMediaType.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../data-exchange/data-exchange-service/data-exchange-integration/src/main/java/com/cnpo/integration/common/DbChecker/DataSourceChecker.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../data-exchange/data-exchange-service/data-exchange-integration/src/main/java/com/cnpo/integration/common/DbChecker/DataSourceCreator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../data-exchange/data-exchange-service/data-exchange-integration/src/main/java/com/cnpo/integration/common/DbChecker/DataSourceHanlder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../data-exchange/data-exchange-service/data-exchange-integration/src/main/java/com/cnpo/integration/common/DbChecker/DbMediaSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/IotdbWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/IotdbWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/IotdbWriterErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/IotdbWriterErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/iotdbwriter/src/main/java/com/alibaba/datax/plugin/writer/iotdbwriter/Key.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iotdbwriter/src/main/resources/plugin_job_template.json" beforeDir="false" afterPath="$PROJECT_DIR$/iotdbwriter/src/main/resources/plugin_job_template.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wOE2Sqau1uBQNxa6lMNimS4qMF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -67,11 +67,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/iotdbwriter/src/main/assembly" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/iotdbwriter" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaprojects\DataX-master\DataX-master\iotdbwriter" />
+      <recent name="D:\ideaprojects\DataX-master\DataX-master\iotdbwriter\src\main\doc" />
       <recent name="D:\ideaprojects\DataX-master\DataX-master\iotdbwriter\src\main\assembly" />
       <recent name="D:\ideaprojects\DataX-master\DataX-master\iotdbwriter\src\main\resources" />
     </key>
@@ -109,6 +111,12 @@
       <workItem from="1628477521124" duration="1132000" />
       <workItem from="1628478777514" duration="20057000" />
       <workItem from="1628513322229" duration="225000" />
+      <workItem from="1628563301774" duration="1771000" />
+      <workItem from="1628648035602" duration="4477000" />
+      <workItem from="1628755237528" duration="2821000" />
+      <workItem from="1628834947257" duration="3455000" />
+      <workItem from="1629033430742" duration="596000" />
+      <workItem from="1629191184169" duration="9048000" />
     </task>
     <servers />
   </component>
@@ -152,6 +160,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="456" y="275" key="ReplaceDuplicatesPrompt/0.0.1280.680@0.0.1280.680" timestamp="1628511698774" />
+    <state x="358" y="42" key="RollbackChangesDialog" timestamp="1628755834425">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="42" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1628755834425" />
     <state x="371" y="89" key="extract.method.dialog" timestamp="1628511697194">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

@@ -1,5 +1,7 @@
 package com.alibaba.datax.plugin.writer.iotdbwriter;
-
+/**
+ * Created by pk on 21/8/17.
+ */
 public class Constant {
     public static final String HOST="host";
     public static final String PORT="port";
